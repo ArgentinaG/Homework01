@@ -196,5 +196,6 @@ p {
 }
 
 .footer h2 {
+    positioned:fixed;
     font-size: 20px;
 }
