@@ -15,3 +15,4 @@ I added the alt attribute to the images.
 
 
 
+CSS changes:
