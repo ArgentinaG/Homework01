@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Homework01
+>>>>>>> 5455dc8fedc1abcdc13598518eff3f41c08223c9
 Steps taken to improve the website
 
 HTML changes:
@@ -15,4 +19,8 @@ I added the alt attribute to the images.
 
 
 
+<<<<<<< HEAD
 CSS changes:
+=======
+CSS changes:
+>>>>>>> 5455dc8fedc1abcdc13598518eff3f41c08223c9
