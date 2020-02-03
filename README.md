@@ -1,4 +1,3 @@
-# Homework01
 Steps taken to improve the website
 
 HTML changes:
@@ -24,7 +23,14 @@ I added notes to the different sections.
 
 
 
+<<<<<<< HEAD
 CSS changes:
+<<<<<<< HEAD
 
 Added notes
 Merged some selectors with the same property values
+=======
+=======
+CSS changes:
+>>>>>>> 5455dc8fedc1abcdc13598518eff3f41c08223c9
+>>>>>>> 6818999f6fe33454c6143b330e417be288ed8cbf

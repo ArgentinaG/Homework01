@@ -145,9 +145,9 @@ p {
                 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 50px;
+    padding: 20px;
+    height: 80px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -156,7 +156,7 @@ p {
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 150px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -165,15 +165,16 @@ p {
 /* Images have the same max-height */
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 100px;
+    overflow: visible;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 300px;
 }
 /* Combined class with same margin-bottom and font-size */
 
@@ -193,4 +194,5 @@ footer {
 footer h2 {
     position: fixed;
     font-size: 20px;
+    
 }
